@@ -37,6 +37,7 @@ This project presents a machine learning project that classifies drug types base
 - Evaluates how model performance changes with increasing training size
 - Uses a fixed cross-validation set (CV) for all evaluations
 - Helps visualize underfitting vs overfitting behavior
+
 ![Learning Curve](images/learning_curve.png)
 
 ### 📉 Confusion Matrix Heatmaps
