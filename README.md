@@ -27,6 +27,10 @@ This project presents a machine learning project that classifies drug types base
 
 ## 📊 Visualizations
 ### 🔁 Regularization Curve
+- Loop over multiple values of regularization parameter C
+- Record training and CV scores
+- Plot training and validation error vs C
+
 ![Accuracy vs C](images/accuracy_vs_C.png)
 
 ### 📈 Learning Curve (Manual, Using Custom CV Set)
@@ -38,9 +42,9 @@ This project presents a machine learning project that classifies drug types base
 ### 📉 Confusion Matrix Heatmaps
 **Train | CV | Test**
 <p float="left">
-  <img src="images/train_conf_matrix.png" width="30%"/>
-  <img src="images/cv_conf_matrix.png" width="30%"/>
-  <img src="images/test_conf_matrix.png" width="30%"/>
+  <img src="images/train_conf_matrix.png" width="40%"/>
+  <img src="images/cv_conf_matrix.png" width="40%"/>
+  <img src="images/test_conf_matrix.png" width="40%"/>
 </p>
 
 ## 🧾 Classification Report (Test Set)
