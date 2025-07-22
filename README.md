@@ -54,7 +54,8 @@ This project presents a machine learning project that classifies drug types base
        2       0.75      1.00      0.86         3
        3       1.00      1.00      1.00         3
        4       1.00      0.91      0.95        11
-accuracy                           0.97        40
+       
+       accuracy                           0.97        40
 
 
 ## 📌 Observations
