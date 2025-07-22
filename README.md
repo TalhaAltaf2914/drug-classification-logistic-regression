@@ -76,7 +76,7 @@ This project presents a machine learning project that classifies drug types base
 
 ## 💡 Author
 Talha Altaf
-[My LinkedIn](https://www.linkedin.com/in/talhaaltaf/) | [My Github] (https://github.com/TalhaAltaf2914)
+[My LinkedIn](https://www.linkedin.com/in/talhaaltaf/) | [My Github](https://github.com/TalhaAltaf2914)
 
 ## 📝 License
 MIT License
