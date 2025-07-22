@@ -27,8 +27,12 @@ This project presents a machine learning project that classifies drug types base
 
 ## 📊 Visualizations
 ### 🔁 Regularization Curve
-![Error vs C](images/error_vs_C.png)
-### 📈 Learning Curves
+![Accuracy vs C](images/accuracy_vs_C.png)
+
+### 📈 Learning Curve (Manual, Using Custom CV Set)
+- Evaluates how model performance changes with increasing training size
+- Uses a fixed cross-validation set (CV) for all evaluations
+- Helps visualize underfitting vs overfitting behavior
 ![Learning Curve](images/learning_curve.png)
 
 ### 📉 Confusion Matrix Heatmaps
